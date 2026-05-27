@@ -35,7 +35,7 @@ if "documentos" not in st.session_state:
 # -------------------------
 # ENCABEZADO
 # -------------------------
-st.title("📋 Portal de Aprobaciones")
+st.title("🚀 Portal Empresarial de Aprobaciones")
 st.caption("Codegasco / Transpcargas — Órdenes de Compra y Requisiciones")
 
 menu = st.sidebar.radio(
